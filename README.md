@@ -1,6 +1,6 @@
 
 # wpf-project-structure
-The repo layout project and folder structure for WPF application using the MVVM design pattern.
+A layout project and folder structure for WPF application using the MVVM design pattern.
 
 #### Is there a right way to structure a WPF solution?
 * [ ] Yes, absolutely*.
